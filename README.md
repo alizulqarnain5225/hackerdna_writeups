@@ -1,4 +1,4 @@
-# 🚀 HackerDNA Writeups by Alizulqarnain5225
+# 🚀 HackerDNA Writeups by alizulqarnain5225
 
 ![HackerDNA Banner](https://raw.githubusercontent.com/alizulqarnain5225/hackerdna_writeups/main/assets/banner.png)
 > *"Turning coffee into flags since 2024"* ☕→🏴
@@ -10,23 +10,12 @@ Every challenge I pwn ends up here with detailed walkthroughs, exploits, scripts
 [![License](https://img.shields.io/github/license/alizulqarnain5225/hackerdna_writeups?color=green&style=for-the-badge)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/alizulqarnain5225/hackerdna_writeups?style=social)](https://github.com/alizulqarnain5225/hackerdna_writeups/stargazers)
 
-## 🏆 Stats (Auto-updated)
-![CTF Stats](https://raw.githubusercontent.com/alizulqarnain5225/hackerdna_writeups/main/assets/stats.svg)
 
 ## 🔥 Latest Writeups
-| Challenge                  | Category       | Difficulty | Date       | Flag Obtained |
-|----------------------------|----------------|------------|------------|---------------|
-| BabyHeap                   | Pwn            | ★★★☆☆     | 2025-12-10 | Yes        |
-| RetroLogin                 | Web            | ★★☆☆☆     | 2025-12-08 | Yes        |
-| CryptoRiddle v2            | Crypto         | ★★★★☆     | 2025-12-05 | Yes        |
-| BlindFaith                 | Reversing      | ★★★★★     | 2025-11-30 | Yes        |
+| Challenge                  | Category                 | Difficulty | Date       | Flag Obtained |
+|----------------------------|--------------------------|------------|------------|---------------|
+| hackerdna                  | Pwn,exploit,we           | ★★★★★      | 2025-12-10 | Yes           |
+
 
 → Full list inside `/writeups/`
 
-## 🛠️ Tools & Scripts
-All custom tools I built during the CTFs:
-- `exp.py` – One-click exploit templates
-- `solver/` – Automated solvers for recurring challenge types
-- `templates/` – My personal pwntools + requests templates
-
-## 📂 Directory Structure
